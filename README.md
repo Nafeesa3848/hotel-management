@@ -11,7 +11,7 @@ Data Persistence: Utilize MySQL database for persistent storage, ensuring data i
 
 RESTful API: Expose RESTful APIs for seamless integration with other systems or user interfaces.
 
-Technologies Used
+Technologies Used:
 Java: The core programming language used for building the application.
 
 Spring Boot: A powerful and convention-over-configuration framework for building Java-based enterprise applications.
